@@ -1,0 +1,309 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.0">
+  <diagram name="Trang-1" id="_bBssY7hV_0RqZQD9k0T">
+    <mxGraphModel dx="786" dy="1620" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Hệ thống quản lý nhân sự Viettle&lt;/b&gt;&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="800" y="-40" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-2" value="&lt;font style=&quot;font-size: 19px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;1. Quản lý tuyển dụng&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="250" y="140" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-3" value="&lt;h3 data-end=&quot;1537&quot; data-start=&quot;1502&quot;&gt;&lt;strong data-end=&quot;1537&quot; data-start=&quot;1506&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot; face=&quot;Times New Roman&quot;&gt;2. Quản lý hồ sơ nhân viên&lt;/font&gt;&lt;/strong&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="520" y="140" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-4" value="&lt;h3 data-end=&quot;1537&quot; data-start=&quot;1502&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot; face=&quot;Times New Roman&quot;&gt;3. Quản lý chấm công – đăng ký công&lt;/font&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="815" y="140" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-6" value="&lt;h3 data-end=&quot;1537&quot; data-start=&quot;1502&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot; face=&quot;Times New Roman&quot;&gt;4. Quản lý tính lương&lt;/font&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1120" y="140" width="121" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-12" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;1.1 Lập và đăng tin tuyển dụng&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="320" y="240" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-15" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;1.2 Tiếp nhận &amp;amp; xử lý hồ sơ ứng tuyển&amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="320" y="350" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-16" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;1.5 Lập báo cáo tuyển dụng&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="320" y="680" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-17" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;1.3 Quản lý lịch và kết quả phỏng vấn&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="320" y="460" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-18" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;1.4 Ghi nhận quyết định tuyển dụng&amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="320" y="570" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-21" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;2.1 Thêm mới hồ sơ nhân viên&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="600" y="240" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-22" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;2.2 Cập nhật thông tin nhân viên&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="600" y="350" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-23" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;2.3 Quản lý tài liệu đính kèm&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="600" y="460" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-24" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;2.4 Tra cứu hồ sơ nhân viên&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="600" y="570" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-25" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;2.5 Xuất báo cáo hồ sơ&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="600" y="680" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-28" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;3.1 Tiếp nhận dữ liệu chấm công&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="880" y="240" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-29" value="&lt;font style=&quot;font-size: 17px;&quot; face=&quot;Times New Roman&quot;&gt;3.2 Quản lý đăng ký ca làm/ nghĩ phép&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="880" y="350" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-34" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;3.3 Cập nhật &amp;amp; lưu trữ bảng công&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="880" y="460" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500.00000000000045" y="200" as="sourcePoint" />
+            <mxPoint x="500.00000000000045" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-51" value="&lt;font style=&quot;font-size: 17px;&quot; face=&quot;Times New Roman&quot;&gt;4.1 Thu thập dữ liệu công, phụ cấp, thưởng/phạt&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="240" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-52" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;4.3 Tính các khoản khấu trừ (BHXH, thuế TNCN,..)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="460" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-54" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;4.4 Lập và quản lý bảng lương&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="570" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-55" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;4.2 Tính lương cơ bản &amp;amp; phụ cấp&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="350" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-56" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;&amp;nbsp;4.5 Xuất phiếu lương&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="680" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-61" value="&lt;h3 data-end=&quot;1537&quot; data-start=&quot;1502&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot; face=&quot;Times New Roman&quot;&gt;5. Báo cáo – Thống kê nhân sự&lt;/font&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1400" y="140" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-63" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;5.1 Báo cáo biến động nhân sự&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1480" y="240" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-64" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;5.2 Báo cáo chấm công – đi muộn – vắng mặt&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1480" y="350" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-65" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;5.3 Báo cáo lương &amp;amp; phúc lợi&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1480" y="460" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-66" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;5.4 Báo cáo tổng hợp&amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1480" y="570" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-140" value="" style="endArrow=none;html=1;rounded=0;entryX=0.534;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="kWR_7iPPRDxCT-B4ocxG-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="110" as="sourcePoint" />
+            <mxPoint x="800" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-141" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="110" as="sourcePoint" />
+            <mxPoint x="1460" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-142" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="kWR_7iPPRDxCT-B4ocxG-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="150" as="sourcePoint" />
+            <mxPoint x="310" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-143" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="579.8" y="140" as="sourcePoint" />
+            <mxPoint x="579.8" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-144" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="140" as="sourcePoint" />
+            <mxPoint x="880" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-145" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1180.8" y="140" as="sourcePoint" />
+            <mxPoint x="1180.8" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-146" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1459.8" y="140" as="sourcePoint" />
+            <mxPoint x="1459.8" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-147" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" target="kWR_7iPPRDxCT-B4ocxG-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="715" as="sourcePoint" />
+            <mxPoint x="370" y="300" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-149" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="714.71" as="sourcePoint" />
+            <mxPoint x="320" y="714.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-150" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="604.71" as="sourcePoint" />
+            <mxPoint x="320" y="604.71" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="604.71" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-151" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="494.71" as="sourcePoint" />
+            <mxPoint x="320" y="494.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-152" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="384.71" as="sourcePoint" />
+            <mxPoint x="320" y="384.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-153" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="274.71" as="sourcePoint" />
+            <mxPoint x="320" y="274.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-154" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="kWR_7iPPRDxCT-B4ocxG-25" target="kWR_7iPPRDxCT-B4ocxG-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="910" as="sourcePoint" />
+            <mxPoint x="700" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="715" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-155" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="kWR_7iPPRDxCT-B4ocxG-24" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="605" as="sourcePoint" />
+            <mxPoint x="630" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-156" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="494.58" as="sourcePoint" />
+            <mxPoint x="600" y="494.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-159" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="kWR_7iPPRDxCT-B4ocxG-22" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="385" as="sourcePoint" />
+            <mxPoint x="600" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-160" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="274.76" as="sourcePoint" />
+            <mxPoint x="600" y="274.76" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-161" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ViyLPSPS_-ZRonR04fXb-1" target="kWR_7iPPRDxCT-B4ocxG-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="815" y="470" as="sourcePoint" />
+            <mxPoint x="920" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="815" y="605" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-169" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="kWR_7iPPRDxCT-B4ocxG-56" target="kWR_7iPPRDxCT-B4ocxG-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1200" y="825" as="sourcePoint" />
+            <mxPoint x="1120" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1150" y="715" />
+              <mxPoint x="1120" y="715" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-170" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="kWR_7iPPRDxCT-B4ocxG-51" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1120" y="275" as="sourcePoint" />
+            <mxPoint x="1150" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-171" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1120" y="384.74" as="sourcePoint" />
+            <mxPoint x="1200" y="384.74" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-172" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1120" y="494.74" as="sourcePoint" />
+            <mxPoint x="1200" y="494.74" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-173" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1120" y="604.74" as="sourcePoint" />
+            <mxPoint x="1200" y="604.74" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-175" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="kWR_7iPPRDxCT-B4ocxG-66" target="kWR_7iPPRDxCT-B4ocxG-61" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1380" y="350" as="sourcePoint" />
+            <mxPoint x="1430" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1400" y="605" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-176" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="kWR_7iPPRDxCT-B4ocxG-65" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1400" y="495" as="sourcePoint" />
+            <mxPoint x="1440" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-177" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1400" y="384.79" as="sourcePoint" />
+            <mxPoint x="1480" y="384.79" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWR_7iPPRDxCT-B4ocxG-178" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1400" y="274.79" as="sourcePoint" />
+            <mxPoint x="1480" y="274.79" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ViyLPSPS_-ZRonR04fXb-1" value="&lt;font style=&quot;font-size: 17px;&quot; face=&quot;Times New Roman&quot;&gt;3.4 Lập báo cáo chấm công&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="880" y="570" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ViyLPSPS_-ZRonR04fXb-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="kWR_7iPPRDxCT-B4ocxG-28" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="815" y="274.52" as="sourcePoint" />
+            <mxPoint x="875" y="274.52" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ViyLPSPS_-ZRonR04fXb-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="815" y="384.52" as="sourcePoint" />
+            <mxPoint x="880" y="385" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="835" y="384.52" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ViyLPSPS_-ZRonR04fXb-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="815" y="494.52" as="sourcePoint" />
+            <mxPoint x="880" y="495" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
